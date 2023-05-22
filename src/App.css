@@ -1,0 +1,18 @@
+login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-container {
+  width: 300px;
+}
+
+.form-container form {
+  display: flex;
+  flex-direction: column;
+}
+table, th, td {
+  border: 1px solid black;
+}
